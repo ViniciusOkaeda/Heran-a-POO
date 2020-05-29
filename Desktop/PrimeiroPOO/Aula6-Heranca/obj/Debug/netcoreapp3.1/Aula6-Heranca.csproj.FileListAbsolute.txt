@@ -1,0 +1,13 @@
+C:\Users\vinicius\Desktop\PrimeiroPOO\Aula6-Heranca\obj\Debug\netcoreapp3.1\Aula6-Heranca.csprojAssemblyReference.cache
+C:\Users\vinicius\Desktop\PrimeiroPOO\Aula6-Heranca\obj\Debug\netcoreapp3.1\Aula6-Heranca.csproj.CoreCompileInputs.cache
+C:\Users\vinicius\Desktop\PrimeiroPOO\Aula6-Heranca\obj\Debug\netcoreapp3.1\Aula6-Heranca.AssemblyInfoInputs.cache
+C:\Users\vinicius\Desktop\PrimeiroPOO\Aula6-Heranca\obj\Debug\netcoreapp3.1\Aula6-Heranca.AssemblyInfo.cs
+C:\Users\vinicius\Desktop\PrimeiroPOO\Aula6-Heranca\bin\Debug\netcoreapp3.1\Aula6-Heranca.exe
+C:\Users\vinicius\Desktop\PrimeiroPOO\Aula6-Heranca\bin\Debug\netcoreapp3.1\Aula6-Heranca.deps.json
+C:\Users\vinicius\Desktop\PrimeiroPOO\Aula6-Heranca\bin\Debug\netcoreapp3.1\Aula6-Heranca.runtimeconfig.json
+C:\Users\vinicius\Desktop\PrimeiroPOO\Aula6-Heranca\bin\Debug\netcoreapp3.1\Aula6-Heranca.runtimeconfig.dev.json
+C:\Users\vinicius\Desktop\PrimeiroPOO\Aula6-Heranca\bin\Debug\netcoreapp3.1\Aula6-Heranca.dll
+C:\Users\vinicius\Desktop\PrimeiroPOO\Aula6-Heranca\bin\Debug\netcoreapp3.1\Aula6-Heranca.pdb
+C:\Users\vinicius\Desktop\PrimeiroPOO\Aula6-Heranca\obj\Debug\netcoreapp3.1\Aula6-Heranca.dll
+C:\Users\vinicius\Desktop\PrimeiroPOO\Aula6-Heranca\obj\Debug\netcoreapp3.1\Aula6-Heranca.pdb
+C:\Users\vinicius\Desktop\PrimeiroPOO\Aula6-Heranca\obj\Debug\netcoreapp3.1\Aula6-Heranca.genruntimeconfig.cache
