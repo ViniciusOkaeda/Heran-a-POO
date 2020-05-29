@@ -1,7 +1,15 @@
-namespace AULA6HERANCA
+namespace Aula6_Heranca
 {
-    public class CNPJ
+    public class CNPJ : Pessoa
     {
-        
+        public string cnpj;
+
+
+        public bool ValidarCNPJ(){
+            if(cnpj != null){
+                return true;
+            }
+            return false;
+        }
     }
 }
